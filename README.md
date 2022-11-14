@@ -1,6 +1,5 @@
 # GradientPanel
-This will allow you to incorporate a gradient panel for WPF C# applications - written in C#.
----
+
 Some people have asked how to add it to their project,
 
 So you'll download the GradientPanel.cs to your project, then just straight drag'n'drop it into your project folder through Visual Studio,
